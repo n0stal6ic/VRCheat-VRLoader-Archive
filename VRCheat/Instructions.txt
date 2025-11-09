@@ -1,0 +1,23 @@
+Go to your VRLoader folder and copy VRCheat.dll into the Modules folder.
+
+How to use:
+**At the top left of the screen you can see what your display name is so you can keep track of it when copying people's names**
+**Players who are using a stolen avatar will have a blue nameplate color**
+
+While a player is selected (press escape and click on their avatar), you can press these keys:
+
+Right click: Copy their avatar
+Scroll wheel button: Save their avatar (Console will ask avatar's name)
+T: Teleport to that player
+M: Send that player a notification message
+
+For the following keys you don't need to have a player selected:
+
+CTRL + G: Teleport to a specific player (Console will show you a playerlist and ask you to type in a substring of the player's name)
+CTRL + M: Teleport every pickup item to you (Might cause a crash when changing worlds)
+CTRL + O: Toggle bone ESP (Enabled by default)
+CTRL + L: Toggle name ESP (Disabled by default)
+CTRL + F: Toggle fly mode (Use Q and E for going up/down)
+CTRL + Sroll wheel button: Save avatar by ID
+CTRL + K: Save current avatar
+CTRL + DELETE: Delete current avatar from saved avatar list
